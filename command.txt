@@ -1,0 +1,4 @@
+1. http://127.0.0.1:8000/broadcast
+2. http://127.0.0.1:8000/start
+3. http://127.0.0.1:8000/stop/9a9
+4. http://localhost:8000/start?name=9a9
